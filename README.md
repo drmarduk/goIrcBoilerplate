@@ -1,0 +1,4 @@
+goIrcBoilerplate
+================
+
+basic irc bot
